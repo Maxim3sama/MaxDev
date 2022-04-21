@@ -85,11 +85,7 @@ header {
 section.middle li.big-titles {
   content: url(https://google.com);
 }
-section.top-page {
-    background: url('/image/background2.jpg');
-    background-size: cover;
-    background-position-y: 0px;
-    height: 100vh;
+
 }
 /* menu de navigation */
 
