@@ -38,7 +38,7 @@ header {
     
 }
 section.top-page {
-    background: url('/image/background2.jpg');
+    background: url('../image/background2.jpg');
     background-size: cover;
     background-position-y: 0px;
     height: 100vh;
